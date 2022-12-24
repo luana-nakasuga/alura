@@ -1,0 +1,4 @@
+cachorro
+gato
+sorvete
+batata
