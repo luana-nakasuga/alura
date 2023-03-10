@@ -158,3 +158,13 @@ replay_pid*
 /*.project
 /.settings
 bin/
+Java/.metadata/.lock
+Java/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location
+*.resources
+*.xml
+*.ini
+*.ser
+*.dat
+*.setup
+Java/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.project
+Java/.metadata/.plugins/org.eclipse.ui.intro/introstate
